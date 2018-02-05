@@ -31,11 +31,7 @@ class Body(object):
         return print(info)
 
     def checkTonelLvl(self, tonerTube):
-
-        tonerTube = 0
-
-        tonerSensor = 100
-
+        pass
 
 
 
